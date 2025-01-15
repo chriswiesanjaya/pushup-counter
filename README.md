@@ -13,4 +13,4 @@ Head over to https://vitejs.dev/ to learn more about configuring vite
 
 Tutorial: [Scrimba: Learn JavaScript](https://scrimba.com/learn-javascript-c0v)
 
-Deployed Website: [https://chriswiesanjaya-pushup-counter.netlify.app/](https://chriswiesanjaya-pushup-counter.netlify.app/)
+Deployed Website: https://chriswiesanjaya-pushup-counter.netlify.app/
