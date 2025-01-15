@@ -9,8 +9,8 @@ npm start
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 
-## Sources
-
-Tutorial: [Scrimba: Learn JavaScript](https://scrimba.com/learn-javascript-c0v)
+## References
 
 Deployed Website: https://chriswiesanjaya-pushup-counter.netlify.app/
+
+Tutorial: [Scrimba: Learn JavaScript](https://scrimba.com/learn-javascript-c0v)
